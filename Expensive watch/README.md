@@ -4,8 +4,7 @@
 
 _One of the least expensive (but most-talked-about) watches in the world, the MoonSwatch. Photo by and of me._
 
-After my brother gifted me a nice watch for my wedding, I became interested in wrist watches. As a well-behaved married man I do my best to avoid the temptation to make impuslve luxury watch purchases. 
+It all started when I stumbled upon an old pocket watch at a flea market. The intricate gears and timeless craftsmanship sparked a curiosity in me that quickly turned into a fascination with the world of horology. As I delved deeper, I found myself captivated by the artistry and engineering behind luxury timepieces.
 
-Thankfuly, those highlighted in my project TickTock: Finding The Most Expensive Watches in the World, are a bit above my pay grade. The pipeline featured here uses web scraping to scrape Wikipedia tables containing horological auction data. 
+This passion led me to create TickTock: Finding The Most Expensive Watches in the World, a project that uses web scraping to analyze historical auction data from Wikipedia. From rare Patek Philippes to record-breaking Rolexes, this pipeline uncovers the watches that have fetched jaw-dropping prices at auctions. While I may not be able to afford these masterpieces, researching them has been a rewarding journey through time itself.
 
-The story, along with visualizations, was featured in [Toward Data Science, Medium's leading data science publication](https://towardsdatascience.com/how-i-used-python-and-sql-to-find-the-most-expensive-watches-in-the-world-785ff71bc893).
